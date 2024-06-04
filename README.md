@@ -20,6 +20,30 @@
   <strong><a href="https://m.vk.com/id597028138" class="home-hero__social-icon-link">VK</a></strong>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Flaer6"><img src="https://github-readme-stats.vercel.app/api?username=flaer6&hide_border=true&show_icons=true" alt="edisonlee55's github stats"></a>
-</p>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=u3u&show_icons=true&count_private=true&include_all_commits=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=u3u&show_icons=true&count_private=true&include_all_commits=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=u3u&show_icons=true&count_private=true&include_all_commits=true" />
+</picture>
+
+<br />
+<br />
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=u3u&layout=compact&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=u3u&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=u3u&layout=compact" />
+</picture>
+
