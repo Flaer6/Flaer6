@@ -14,7 +14,7 @@
 
 # Contact Me :
 <p align="center">
-  <strong><a href="https://flaer6.github.io/Flaer6/">Official Website</a></strong> |
+  <strong><a href="https://flaer-dev.uz/" target="_blank">Official Website</a></strong> |
   <strong><a href="https://t.me/Flaerar">Telegram</a></strong> |
   <strong><a href="https://www.instagram.com/flaerar?igsh=YTZqcWUxMGNmNm1m">Instagram</a></strong> |
   <strong><a href="https://m.vk.com/id597028138" class="home-hero__social-icon-link">VK</a></strong>
